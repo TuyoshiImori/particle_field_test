@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:particle_field/particle_field.dart';
 import 'package:rnd/rnd.dart';
